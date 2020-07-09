@@ -1,3 +1,7 @@
 hello:
 	thiis my first in dev branch create file and wirte this content!
-	this my second in dev branch change this file.
+<<<<<<< HEAD
+	this my second in dev branch change this file!
+=======
+	this my second in dev branch change this file!
+>>>>>>> dev
