@@ -1,0 +1,2 @@
+#this is config file 
+#after commit ignore file add this contents
