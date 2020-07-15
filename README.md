@@ -1,2 +1,0 @@
-# zuitianshi
-my repository
